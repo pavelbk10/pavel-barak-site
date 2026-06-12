@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.history/
+
+# Logs
+*.log
+
+# Dependencies (if added later)
+node_modules/

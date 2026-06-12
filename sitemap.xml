@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.pavelbarak.co.il/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url><loc>https://www.pavelbarak.co.il/article-pricing.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/article-seo-mistakes.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/article-design-principles.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/article-ecommerce.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/article-mobile.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/article-branding.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/project-architecture.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/project-organic.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/project-nova.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/project-dental.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/project-law.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://www.pavelbarak.co.il/project-powerfit.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url>
+        <loc>https://www.pavelbarak.co.il/accessibility.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://www.pavelbarak.co.il/privacy.html</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+</urlset>
